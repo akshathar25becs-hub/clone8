@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 Edit1
 Edit3
+edit2
